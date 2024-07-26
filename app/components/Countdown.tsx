@@ -38,15 +38,15 @@ function CountdownComp() {
           />
           <div className="relative z-20">
             <RevealWrapper duration={1500} origin="right">
-              <p className="text-sm font-light">Наверняка вы уже поняли, что вы приглашены</p>
-              <h1 className="text-3xl font-light mt-2 mb-4">Но на всякий повторяем. Вы приглашены!</h1>
+              <p className="text-sm font-light">Наверняка вы уже все поняли, но на всякий случай:</p>
+              <h1 className="text-3xl font-light mt-2 mb-4">Вы приглашены!</h1>
               <div className="grid grid-cols-2 border-y border-y-white text-center text-[0.75rem] font-light">
                 <p className="leading-[1.85] py-2 px-2 border-r border-r-white flex flex-col gap-2">
-                  <span>Еще разок про дату</span>
-                  <span>31 августа 2024 года, 10:00. Ресторан "Карлсон"</span>
+                  <span>Куда бежать?</span>
+                  <span className="font-semibold"> 31 августа 2024 года, 09:30.</span> <span>Ресторан "Карлсон"</span>
                 </p>
                 <p className="py-2 px-2 flex flex-col gap-2">
-                  <span>Это через:</span>
+                  <span>Осталось всего:</span>
                   <Countdown
                     date={new Date("2024-08-31")}
                     renderer={renderer}

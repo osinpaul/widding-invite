@@ -34,15 +34,18 @@ function WeddingEvents() {
 									<hr className="border border-[#5a5a5a80] w-full"/>
 									<p className="flex items-center text-[#5a5a5a] font-light text-sm gap-1.5">
 										<AiFillClockCircle/>
-										<span>10:00</span>
+										<span>09:30</span>
 									</p>
 									<p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
 										<strong className="text-black font-bold">
 											Ресторан Карлсон
 										</strong>
 										<br/>
-										Тут мы распишемся и сделаем несколько красивых фото на память.
-                                        Форма одежды свободная, вам должно быть удобно. Красивыми будем мы :)
+										Тут мы распишемся и сделаем несколько красивых фото на память. Форма одежды
+										свободная, но будет здорово, если в одежде вы придержитесь светлых/пастельных
+										тонов :)
+										<br/>
+										Заложите время на поиск парковочного места, это центр - они все платные.
 									</p>
 									<a target="_blank"
 									   href="https://yandex.ru/maps/-/CDR1zQ8Z"
@@ -79,7 +82,7 @@ function WeddingEvents() {
 											Шашлыки за городом на 30 человек. И мы накормим всех :)
 										</strong>
 										<br/>
-										Форма одежды за вами. В программе велосепеды, сапы и волейбол с настолками.
+										Форма одежды за вами. В программе игры, отдых, общение и песни у костра. С собой возьмите купальник, сменный комплект одежды на следующий день и все для комфортной и веселой ночевки.
 									</p>
 									<a
 										href="https://yandex.ru/maps/-/CDWVABZe"
@@ -89,8 +92,8 @@ function WeddingEvents() {
 									</a>
 								</div>
 								<div className="w-[20%] bg-[#424242] rounded-br-[1.25rem] flex items-center">
-									<p className="-rotate-90 text-center text-white font-bold text-[1.75rem] -translate-x-[3rem] lg:-translate-x-[2.35rem] tracking-[5px]">
-										ПОТОМ
+									<p className="-rotate-90 text-center text-white font-bold text-[1.75rem] -translate-x-[3rem] lg:-translate-x-[.1rem] tracking-[5px]">
+										ЛЕС
 									</p>
 								</div>
 							</div>
