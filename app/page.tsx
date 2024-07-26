@@ -4,7 +4,6 @@ import { useEffect, useState } from "react";
 import Countdown from "./components/Countdown";
 import Hero from "./components/Hero";
 import WeddingEvents from "./components/WeddingEvents";
-import Footer from "./components/Footer";
 import { RevealWrapper } from "next-reveal";
 
 export default function Home() {
