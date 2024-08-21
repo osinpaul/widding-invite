@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import Countdown from "react-countdown";
 import { RevealWrapper } from "next-reveal";

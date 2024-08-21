@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import { FaQuoteRight } from "react-icons/fa";
 import { RevealWrapper } from "next-reveal";
