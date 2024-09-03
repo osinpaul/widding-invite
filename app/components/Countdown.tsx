@@ -19,7 +19,7 @@ function CountdownComp() {
     completed: any;
   }) {
     return completed ? (
-      <span>Acara sudah berlalu.</span>
+      <span>Мероприятие состоялось.</span>
     ) : (
       <span>
         {days} дней {hours} часов
