@@ -45,7 +45,7 @@ function CountdownComp() {
               <div className="grid grid-cols-2 border-y border-y-white text-center text-[0.75rem] font-light">
                 <p className="leading-[1.85] py-2 px-2 border-r border-r-white flex flex-col gap-2">
                   <span>Куда бежать?</span>
-                  <span className="font-semibold"> 31 августа 2024 года, 09:30.</span> <span>Ресторан "Карлсон"</span>
+                  <span className="font-semibold"> 28 сентября 2024 года, 15:30.</span> <span>Ресторан "8 миля"</span>
                 </p>
                 <p className="py-2 px-2 flex flex-col gap-2">
                   <span>Осталось всего:</span>
