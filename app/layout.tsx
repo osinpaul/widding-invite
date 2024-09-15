@@ -8,7 +8,7 @@ const merriweather = Merriweather({
 });
 
 export const metadata = {
-  title: "Двойной П: Свадьба Николая и Оксаны",
+  title: "Свадьба Николая и Оксаны",
   description: "Чтобы попасть на свадьбу, нужно всего лишь...",
 };
 

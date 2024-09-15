@@ -40,18 +40,17 @@ function WeddingEvents() {
 									</p>
 									<p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
 										<strong className="text-black font-bold">
-											Ресторан Карлсон
+											Ресторан 8 Миля
 										</strong>
 										<br/>
-										Тут мы распишемся и сделаем несколько красивых фото на память. Форма одежды
-										свободная, но будет здорово, если в одежде вы придержитесь светлых/пастельных
-										тонов :)
+										Тут мы распишемся, сделаем много красивых фото на память. Форма одежды
+										парадная)
 										<br/>
-										Воспользуйтесь городской парковкой, или парковкой в
-										<a href="https://yandex.ru/maps/-/CDsIVG3r" target="_blank"> ТЦ Аркадия</a>
+										Воспользуйтесь парковкой
+										<a href="https://yandex.ru/maps/-/CDsIVG3r" target="_blank"> 8 миля</a>
 									</p>
 									<a target="_blank"
-									   href="https://yandex.ru/maps/-/CDR1zQ8Z"
+									   href="https://yandex.ru/maps/org/vosmaya_milya/88813643037/?ll=49.559622%2C53.508284&utm_source=share&z=15.65"
 									   className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
 									>
 										На карту
@@ -60,49 +59,7 @@ function WeddingEvents() {
 							</div>
 						</div>
 					</RevealWrapper>
-					<RevealWrapper duration={ 1500 } origin="bottom">
-						<div className="mt-6">
-							<img
-								src="/images/weddingEvents/resepsi.jpg"
-								alt="akad"
-								className="w-full h-72 object-cover rounded-t-[1.25rem] object-left"
-							/>
-							<div className="flex">
-								<div
-									className="w-[80%] bg-white px-4 py-6 rounded-bl-[1.25rem] flex flex-col gap-5 items-baseline">
-									<h1 className="italic text-xl font-light">
-										Загородная вечеринка
-									</h1>
-									<hr className="border border-[#5a5a5a80] w-full"/>
-									<div>
-										<p className="flex items-center text-[#5a5a5a] font-light text-[0.8rem] gap-1.5">
-											<AiFillClockCircle/>
-											<span>13:00 - Мы добираемся до базы отдыха и заселяемся</span>
-										</p>
-									</div>
-									<p className="text-[0.785rem] text-[#5a5a5a] font-light leading-[1.9]">
-										<strong className="text-black font-bold">
-											Шашлыки за городом на 30 человек. И мы накормим всех :)
-										</strong>
-										<br/>
-										Форма одежды за вами. В программе игры, отдых, общение и песни у костра. С собой возьмите купальник, сменный комплект одежды на следующий день и все для комфортной и веселой ночевки.
-									</p>
-									<a
-										href="https://yandex.ru/maps/-/CDWVABZe"
-										className="text-[0.75rem] text-[#424242] border border-[#424242] px-[0.4375rem] py-1.5 rounded-full hover:scale-90 ease-linear duration-[0.2s]"
-									>
-										Мать моя, это где?
-									</a>
-								</div>
-								<div className="w-[20%] bg-[#424242] rounded-br-[1.25rem] flex items-center">
-									<p className="-rotate-90 text-center text-white font-bold text-[1.75rem] -translate-x-[.1rem] lg:-translate-x-[.1rem] tracking-[5px]">
-										ЛЕС
-									</p>
-								</div>
-							</div>
-						</div>
-					</RevealWrapper>
-				</div>
+					</div>
 			</div>
 		</section>
 	);
